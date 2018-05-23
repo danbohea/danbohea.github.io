@@ -99,17 +99,10 @@ body {
   padding: 0 1em 1em 1em;
 }
 
-.tagline {
-  font-style: italic;
-  color: #888;
-  font-weight: normal;
-}
-
 a {
-  text-decoration: none;
   color: #F64B52;
 }
 
 a:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
